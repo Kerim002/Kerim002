@@ -67,7 +67,11 @@ TikTok-inspired platform with content moderation and administration tools.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+### Languages
+* Turkmen Native
+* Turkish Blingual
+* English Conversational
+* Russian Basics
 
 ## 🌍 Connect With Me
 
